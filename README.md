@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**DimasRK27/DimasRK27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi there 👋
 About me:
 
 - 🔭 I’m currently Open To Work
